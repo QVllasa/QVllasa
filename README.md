@@ -20,6 +20,8 @@ Software engineer and co-founder from Kreuzlingen, Switzerland. You'll usually f
 - At ThyssenKrupp Presta my code walks hundreds of thousands of parts through the factory every day. Right now I'm building AppForge there. You describe an app in three sentences and ten minutes later an AI agent has built and deployed it.
 - At [möbelguru](https://moebelguru.de) I'm co-founder and tech lead. We turn any product category into a comparison portal in days and started with furniture, because that's where comparing is hardest.
 
+The coolest of these projects are business critical, so their code stays private. The green squares further down show how busy they keep me.
+
 Before all that I studied economics in Konstanz and industrial engineering at KIT. So I read the spreadsheet as well as the stack trace.
 
 Day to day it's Python, TypeScript, Next.js, FastAPI, LangGraph, vLLM, PostgreSQL, Databricks, Meilisearch and Docker.
